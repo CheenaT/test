@@ -2,6 +2,8 @@
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
+\begin{equation} \begin{bmatrix} x & \dot{x} & \theta & \dot{\theta} & L & m & M \end{bmatrix} \end{equation}
+
 ![](https://i.imgflip.com/3eod26.jpg)
 
 Чтобы стать коллаборатором и загружить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в беседу кафедры
