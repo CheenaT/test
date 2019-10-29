@@ -1,6 +1,6 @@
 # operation-research-rep
 
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 ![](https://i.imgflip.com/3eod26.jpg)
 
