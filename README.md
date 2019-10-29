@@ -6,7 +6,7 @@
 
 ![](https://i.imgflip.com/3eod26.jpg)
 
-Чтобы стать коллаборатором и загружить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в беседу кафедры
+Чтобы стать коллаборатором и загружить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в [беседу](https://vk.com/im?sel=c2&tab=all) кафедры
 
 ### Как загрузить код?
 
