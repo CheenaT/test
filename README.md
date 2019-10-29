@@ -1,5 +1,7 @@
 # operation-research-rep
 
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+
 ![](https://i.imgflip.com/3eod26.jpg)
 
 Чтобы стать коллаборатором и загружить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в беседу кафедры
