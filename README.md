@@ -29,9 +29,9 @@ git checkout -b task2-ivanovpetrov
 mkdir submissions/task2/ivanov-petrov
 ```
 
-  3.1. Написать код:
+3.1. Написать код:
   
-  ![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 4. Отправить pull request в master с именем **Задание 2. Иванов, Петров**:
 
