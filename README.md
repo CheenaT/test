@@ -1,5 +1,10 @@
 # operation-research-rep
 
+```sh
+git add .
+git commit -m "Final commit!♿"
+```
+
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 \begin{equation} \begin{bmatrix} x & \dot{x} & \theta & \dot{\theta} & L & m & M \end{bmatrix} \end{equation}
