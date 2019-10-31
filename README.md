@@ -26,7 +26,7 @@ git checkout -b task2-ivanovpetrov
 3. Создать директорию submissions/task2/ivanov-petrov в которой будут содержаться все файлы относящиеся к заданию:
 
 ```sh
-mkdir submissions/task2/ivanov-petrov
+* mkdir submissions/task2/ivanov-petrov
 ```
 
 * Написать код:
