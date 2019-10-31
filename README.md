@@ -40,3 +40,6 @@ git push origin task2-ivanovpetrov (task2-ivanovpetrov - название ваш
 5. Молиться, что всё сработает ~~fucking awesome~~ как надо:
 
 ![](https://im0-tub-ru.yandex.net/i?id=5b15e87f69a304493e1440fbb557f676&n=13&exp=1)
+
+_1. List item__  
+__1.1 List item
