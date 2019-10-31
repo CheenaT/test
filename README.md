@@ -29,7 +29,7 @@ git checkout -b task2-ivanovpetrov
 mkdir submissions/task2/ivanov-petrov
 ```
 
-3.1 Написать код:
+* Написать код:
   
 ![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
