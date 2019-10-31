@@ -3,14 +3,15 @@
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
 \begin{equation} \begin{bmatrix} x & \dot{x} & \theta & \dot{\theta} & L & m & M \end{bmatrix} \end{equation}
+# operation-research-rep
 
 ![](https://i.imgflip.com/3eod26.jpg)
 
-Чтобы стать коллаборатором и загружить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в [беседу](https://vk.com/im?sel=c2&tab=all) кафедры
+Чтобы стать коллаборатором и загрузить свои код надо отправить свой логин от github'a [мне](https://tele.click/@FredericChopin) или в беседу кафедры
 
 ### Как загрузить код?
 
-1. Склонировать себе этот репозитории:
+1. Клонировать себе этот репозитории:
 
 ```sh
 git clone https://github.com/CheenaT/operation-research-rep.git
@@ -30,9 +31,9 @@ mkdir submissions/task2/ivanov-petrov
 4. Отправить pull request в master с именем **Задание 2. Иванов, Петров**:
 
 ```sh
-git push origin master
+git push origin task2-ivanovpetrov (task2-ivanovpetrov - название вашей ветки)
 ```
 
-5. Молитсья, что всё сработает ~~fucking awesome~~ как надо:
+5. Молиться, что всё сработает ~~fucking awesome~~ как надо:
 
 ![](https://im0-tub-ru.yandex.net/i?id=5b15e87f69a304493e1440fbb557f676&n=13&exp=1)
