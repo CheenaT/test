@@ -45,3 +45,12 @@ git push origin task2-ivanovpetrov (task2-ivanovpetrov - название ваш
 
 _1. List item__  
 __1.1 List item
+
+4. Написать код и сделать коммит:
+
+* ![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+
+```sh
+git add .
+git commit -m "First commit"
+```
