@@ -32,7 +32,7 @@ cd superrnash-package
 pip install .
 ```
 
-3. Использовать пакет:
+3. Использование пакета:
 
 ```sh
 python
