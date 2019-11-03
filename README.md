@@ -29,10 +29,31 @@ python get-pip.py
 
 ```sh
 cd superrnash-package
-
 pip install .
 ```
 
+3. Использовать пакет:
+
+```sh
+python
+>>> import superrnash
+>>> suppernash.main()
+2
+2
+5 0
+6 0
+```
+
+<p align='center'>
+<img src='https://sun9-68.userapi.com/c857028/v857028139/313fe/id1Rufohbmw.jpg' width='600' alt='npm start'>
+</p>
+
+```sh
+ Game value is : 0.0 
+ optimal strategy for 1st player :  [1.0, 0.0] 
+ optimal strategy for 2nd player :  [0.0, 1.0]
+>>>
+```
 
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
