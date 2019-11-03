@@ -7,11 +7,25 @@
 2. Инструкцией по запуску
 3. Вклад каждого участника
 
+## Постановка задачи
+
+## Инструкция по запуску
+1. Установка [pip](https://pip.pypa.io/en/stable/installing/) если его нет:
+Linux или macOS:
+```sh
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+```
+
+2. Скачать пакет и установить его:
 
 ```sh
-git add .
-git commit -m "Final commit!:wheelchair:"
+cd superrnash-package
+
+pip install .
 ```
+
+
 
 ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)  
 
