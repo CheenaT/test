@@ -1,5 +1,5 @@
-# operation-research-rep
-:wheelchair:
+# Практическая работа №1
+
 ```sh
 git add .
 git commit -m "Final commit!:wheelchair:"
