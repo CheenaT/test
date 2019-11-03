@@ -45,7 +45,11 @@ python
 ```
 
 <p align='center'>
-<img src='https://sun9-68.userapi.com/c857028/v857028139/313fe/id1Rufohbmw.jpg' width='600' alt='npm start'>
+  <img src='https://sun9-26.userapi.com/c857028/v857028320/349f5/RLZIvT0v63w.jpg' width='600' alt='npm start'>
+</p>
+
+<p align='center'>
+  <img src='https://sun9-43.userapi.com/c857028/v857028320/349fd/xeNDQbxPAq0.jpg' width='600' alt='npm start'>
 </p>
 
 ```sh
