@@ -13,7 +13,6 @@
 ## Инструкция по запуску
 
 1. Установка [pip](https://pip.pypa.io/en/stable/installing/) если его нет:
-
 * ### Linux или macOS
 
 ```sh
