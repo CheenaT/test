@@ -14,12 +14,16 @@
 
 1. Установка [pip](https://pip.pypa.io/en/stable/installing/) если его нет:
 
-### Linux или macOS
+* ### Linux или macOS
 
 ```sh
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
+
+* ### Windows
+
+Скачать [get-pip.py](https://bootstrap.pypa.io/get-pip.py) в папку на вашем компьютере. Откройте окно командной строки и перейдите в папку, содержащую `get-pip.py`. Затем запустите `python get-pip.py`.
 
 2. Скачать пакет и установить его:
 
