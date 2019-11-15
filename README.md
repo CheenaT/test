@@ -2,6 +2,8 @@
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^2" title="x^2" /></a>
 
+5&deg;F 
+
 # Практическая работа №1
 
 Команда "СТС": Серебрякова Софья, Турсуналиев Чингиз, Меред Сарджаев, 312 группа.
