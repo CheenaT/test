@@ -1,6 +1,6 @@
 Пусть функция *F(x, y)* определена на декартовом произведении *X × Y*, где *X, Y* — множества произвольной природы.
 
-__Определение__.  Пара ![](https://sun9-47.userapi.com/c858016/v858016133/eb967/gwWm_5C4iS0.jpg) *X Y* называется *седловой* точкой функции <img src="https://latex.codecogs.com/png.latex?\inline&space;\dpi{200}&space;\tiny&space;F(x,&space;y)" title="\tiny F(x, y)" /> если
+__Определение__.  Пара ![](https://sun9-47.userapi.com/c858016/v858016133/eb967/gwWm_5C4iS0.jpg | height=30) *X Y* называется *седловой* точкой функции <img src="https://latex.codecogs.com/png.latex?\inline&space;\dpi{200}&space;\tiny&space;F(x,&space;y)" title="\tiny F(x, y)" /> если
     F ( x , y^0 ) ≤ F ( x^0 , y^0 ) ≤ F ( x^0 , y )для любых (^) ​ x ∈ X , y ∈ Y
     или, эквивалентно,
     max F ( x , y^0 ) = F ( x^0 , y^0 ) = min F ( x^0 , y ), x ∈ X , y ∈ Y (^)
