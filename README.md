@@ -12,3 +12,5 @@ __Определение__.  Пара <img src="http://www.sciweavers.org/tex2im
 
 $n^2$ x<sup>2</sup>
 <img src="http://www.sciweavers.org/tex2img.php?eq=%28x%5E2%2C%20y%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="(x^2, y^2)" width="53" height="21" />
+
+sdfsd <a href="https://www.codecogs.com/eqnedit.php?latex=(x^2,&space;y^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(x^2,&space;y^2)" title="(x^2, y^2)" /></a> sdfsdf
