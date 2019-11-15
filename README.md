@@ -1,8 +1,4 @@
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cunderbrace%7Bab%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \underbrace{ab} " width="6" height="6" />
-
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-
-$ \sum_{\forall i}{x_i^{2}} $
+Пусть функция <img src="http://www.sciweavers.org/tex2img.php?eq=F%28x%2Cy%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="F(x,y)" width="57" height="19" /> определена на декартовом произведении *X × Y*, где X , Y— множества произвольной природы.
 
 # Практическая работа №1
 
