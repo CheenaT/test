@@ -1,4 +1,4 @@
-Пусть функция *F(x, y)* определена на декартовом произведении *X × Y*, где *X, Y* — множества произвольной природы.
+Пусть функция *F(x, y)* <img src="http://www.sciweavers.org/tex2img.php?eq=F%28x%2C%20y%29&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="F(x, y)" width="53" height="19" /> определена на декартовом произведении *X × Y*, где *X, Y* — множества произвольной природы.
 
 # Практическая работа №1
 
