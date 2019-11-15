@@ -1,5 +1,7 @@
 Пусть функция *F(x, y)* <img src="http://www.sciweavers.org/tex2img.php?eq=F%28x%2C%20y%29&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0" align="center" border="0" alt="F(x, y)" width="53" height="19" /> определена на декартовом произведении *X × Y*, где *X, Y* — множества произвольной природы.
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^2" title="x^2" /></a>
+
 # Практическая работа №1
 
 Команда "СТС": Серебрякова Софья, Турсуналиев Чингиз, Меред Сарджаев, 312 группа.
