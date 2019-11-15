@@ -6,7 +6,7 @@ __Определение__.  Пара <img src="https://sun9-53.userapi.com/c858
     max F ( x , y^0 ) = F ( x^0 , y^0 ) = min F ( x^0 , y ), x ∈ X , y ∈ Y (^)
     Опишем антагонистическую игру. В ней принимают участие два игрока 1 и 2 (первый и
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=x^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x^2" title="x^2" /></a>
+![](https://sun9-57.userapi.com/c858016/v858016718/e9ce1/VcWiPY7dko4.jpg)
 
 *5&deg;F °*
 
