@@ -2,6 +2,7 @@
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
+$ \sum_{\forall i}{x_i^{2}} $
 
 # Практическая работа №1
 
