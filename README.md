@@ -1,4 +1,6 @@
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cunderbrace%7Bab%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \underbrace{ab} " width="36" height="21" />
+<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cunderbrace%7Bab%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \underbrace{ab} " width="6" height="6" />
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 
 # Практическая работа №1
