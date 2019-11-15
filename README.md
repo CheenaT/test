@@ -1,6 +1,6 @@
 Пусть функция *F(x, y)* определена на декартовом произведении *X × Y*, где *X, Y* — множества произвольной природы.
 
-__Определение__.  Пара <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{100}&space;(x^0,&space;y^0)&space;\in&space;X&space;\times&space;Y" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;\dpi{100}&space;(x^0,&space;y^0)&space;\in&space;X&space;\times&space;Y" title="(x^0, y^0) \in X \times Y" /></a> называется *седловой* точкой функции *F(x, y)* на *X × Y*, если
+__Определение__.  Пара <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{300}&space;(x^0,&space;y^0)&space;\in&space;X&space;\times&space;Y" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;\dpi{300}&space;(x^0,&space;y^0)&space;\in&space;X&space;\times&space;Y" title="(x^0, y^0) \in X \times Y" /></a> называется *седловой* точкой функции *F(x, y)* на *X × Y*, если
     F ( x , y^0 ) ≤ F ( x^0 , y^0 ) ≤ F ( x^0 , y )для любых (^) ​ x ∈ X , y ∈ Y
     или, эквивалентно,
     max F ( x , y^0 ) = F ( x^0 , y^0 ) = min F ( x^0 , y ), x ∈ X , y ∈ Y (^)
