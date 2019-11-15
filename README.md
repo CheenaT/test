@@ -11,4 +11,4 @@
 
 ## Постановка задачи
 
-![](https://sun9-34.userapi.com/c855024/v855024718/163379/oJYHGiPJUQg.jpg)
+![](https://sun9-4.userapi.com/c855024/v855024718/1633cc/t_sv-7RhYqo.jpg)
